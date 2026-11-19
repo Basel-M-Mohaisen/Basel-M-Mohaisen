@@ -1,7 +1,7 @@
 <div align="center">
 
 # Basel Midhat Mohaisen
-**Senior Backend Systems Engineer & Data Scientist**
+**Backend Systems Engineer & Data Scientist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baselmohaisen/)
 [![Email](https://img.shields.io/badge/Email-Baselmid7at%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Baselmid7at@gmail.com)
